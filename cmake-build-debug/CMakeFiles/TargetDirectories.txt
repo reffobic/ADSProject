@@ -1,0 +1,3 @@
+/Users/refobic/Documents/CS/TrieProject/cmake-build-debug/CMakeFiles/TrieProject.dir
+/Users/refobic/Documents/CS/TrieProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/refobic/Documents/CS/TrieProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

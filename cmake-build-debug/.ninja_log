@@ -1,0 +1,5 @@
+# ninja log v5
+506	676	1702319799149919730	TrieProject	2c72f386d0e5f0c
+5	506	1702319798979323003	CMakeFiles/TrieProject.dir/main.cpp.o	eebc37398383147e
+1	355	1702296286162656683	CMakeFiles/TrieProject.dir/trie.cpp.o	cc1c386b0becbdf5
+0	70	1702329552613092492	build.ninja	b3e45e5ccf51bb46
